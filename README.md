@@ -7,16 +7,16 @@ Categoria do projeto: **ONG**
 ## Links
 
 - **Site no ar:** https://filhosefilhasdorcas.org
-- **Vídeo de apresentação (YouTube):** _colar aqui o link depois de publicar_
+- **Vídeo de apresentação (YouTube):** **Link**
 
 ## Integrantes
 
-| Nome | RA |
-|------|----|
-| Alyne da Silva Francisco | 3024201738 |
-| Gustavo Silva Calixto | 3026105362 |
-| Edberg Moreira Rodrigues da Silva | 3026106530 |
-| Leonardo Cabral da Silva Pereira | 3025106652 |
+| Nome |
+|------|
+| Alyne da Silva Francisco |
+| Gustavo Silva Calixto |
+| Edberg Moreira Rodrigues da Silva |
+| Leonardo Cabral da Silva Pereira |
 
 ## Sobre o projeto
 
@@ -61,27 +61,6 @@ Fizemos uma reunião e um questionário com o presidente da ONG. As principais n
 3. Montagem do site no WordPress.
 4. Revisão (auditoria de estrutura, contraste, links e conteúdo) e ajustes.
 5. Publicação, vídeo de apresentação e banner.
-
-## Estrutura do repositório
-
-```
-scripts/         deploy.py (cria/atualiza as páginas pela API do WordPress)
-backup/          exportação das páginas (Ferramentas > Exportar do WordPress)
-README.md
-```
-
-## Como usar o script de implantação
-
-O `deploy.py` usa só a biblioteca padrão do Python 3. Ele lê o endereço do site, o usuário e uma senha de aplicativo de variáveis de ambiente. **Nenhuma senha fica salva no repositório.**
-
-```bash
-export WP_URL="https://filhosefilhasdorcas.org"
-export WP_USER="usuario"
-export WP_APP_PASSWORD="senha de aplicativo do WordPress"
-
-python3 scripts/deploy.py --dry-run   # só mostra o que faria
-python3 scripts/deploy.py             # cria só as páginas que ainda não existem
-```
 
 ## Próximas etapas
 
