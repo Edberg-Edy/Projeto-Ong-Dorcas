@@ -7,7 +7,7 @@ Categoria do projeto: **ONG**
 ## Links
 
 - **Site no ar:** https://filhosefilhasdorcas.org
-- **Vídeo de apresentação (YouTube):** **Link**
+- **Vídeo de apresentação (YouTube):** _colar aqui o link depois de publicar_
 
 ## Integrantes
 
@@ -51,8 +51,7 @@ Fizemos uma reunião e um questionário com o presidente da ONG. As principais n
 - WordPress em hospedagem tradicional
 - Tema Twenty Twenty-Five e editor de blocos nativo
 - HTML e CSS nos blocos personalizados (menu em placas)
-- Python 3 (`scripts/deploy.py`), que cria as páginas pela API REST do próprio WordPress
-- Git e GitHub para versionar os textos e a documentação
+- Git e GitHub para versionar o projeto e a documentação
 
 ## Como o projeto foi feito
 
