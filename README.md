@@ -14,8 +14,8 @@ Categoria do projeto: **ONG**
 | Nome |
 |------|
 | Alyne da Silva Francisco |
-| Gustavo Silva Calixto |
 | Edberg Moreira Rodrigues da Silva |
+| Gustavo Silva Calixto |
 | Leonardo Cabral da Silva Pereira |
 
 ## Sobre o projeto
