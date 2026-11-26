@@ -26,7 +26,7 @@ A ONG não tinha um site próprio. Nosso grupo construiu um site institucional p
 
 ## O que levantamos com o responsável
 
-Fizemos uma reunião e um questionário com o presidente da ONG. As principais necessidades foram:
+Fizemos uma reunião com o presidente da ONG. As principais necessidades foram:
 
 - divulgação institucional;
 - receber doações (Pix e doação de roupas e outros itens);
