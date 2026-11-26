@@ -4,7 +4,7 @@ Projeto 2026-2 — Projeto em Desenvolvimento de Sistemas (UNINOVE)
 Professor: Daniel Ferreira de Barros Junior
 Categoria do projeto: **ONG**
 
-## Links
+## Link
 
 - **Site no ar:** https://filhosefilhasdorcas.org
   
